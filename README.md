@@ -2,4 +2,4 @@
 
 Tableau Visualization:
 
-<a href="https://public.tableau.com/app/profile/mark6522/viz/LifeExpectancyvsLiberalDemocracy/Dashboard2" target="_blank">Life Expectancy related to liberal democracy visualization</a>
+<a href="https://public.tableau.com/app/profile/mark6522/viz/LifeExpectancyvsLiberalDemocracy/Dashboard2">Life Expectancy related to liberal democracy visualization</a>
